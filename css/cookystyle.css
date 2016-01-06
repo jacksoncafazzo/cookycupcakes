@@ -1,0 +1,16 @@
+.flashy {
+  color:red;
+  font-style: italic;
+}
+
+.best {
+  font-family: fantasy;
+  font-weight: bolder;
+  color:pink;
+}
+
+h1 {
+  font-family: cursive;
+  font-weight: bold;
+  text-align: center;
+}
